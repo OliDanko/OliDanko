@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Oliver!
 
-<!--
-**OliDanko/OliDanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Aspiring Junior Data Analyst | Excel • Power BI • SQL • Python Enthusiast | Lifelong Learner
 
-Here are some ideas to get you started:
+I'm passionate about **Data Analytics** and transforming raw data into impactful insights to support smarter business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am learning **Python** for data analysis and constantly improving my skills through real-world projects and courses.
+
+---
+
+### 🛠️ Tools & Skills:
+
+- **Excel** (Power Pivot, Dashboards, PivotTables)
+- **Power BI** (Data Modeling, DAX, Interactive Reports)
+- **SQL** (MySQL – querying, filtering, joins, aggregations)
+- **Other tools**: Google Sheets, Microsoft Office, PowerPoint
+
+---
+
+📚 I’m building my portfolio with projects focused on business analytics, data visualization, and reporting.
+
