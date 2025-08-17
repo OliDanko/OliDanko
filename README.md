@@ -13,7 +13,7 @@ Currently, I am learning **Python** for data analysis and constantly improving m
 - **Excel** (Power Pivot, Dashboards, PivotTables)
 - **Power BI** (Data Modeling, DAX, Interactive Reports)
 - **SQL** (MySQL – querying, filtering, joins, aggregations)
-- **Python**: Pandas (data manipulation, aggregation), Matplotlib & Seaborn (visualization), NumPy (computations)
+- **Python** Pandas (data manipulation, aggregation), Matplotlib & Seaborn (visualization), NumPy (computations)
 - **Other tools**: Google Sheets, Microsoft Office, PowerPoint
 
 ---
